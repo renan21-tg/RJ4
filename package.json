@@ -1,0 +1,13 @@
+{
+  "name": "rj4",
+  "version": "1.0.0",
+  "description": "Módulo que utiliza o modulo-base",
+  "main": "teste.js",
+  "type": "module",
+  "scripts": {
+    "start": "node teste.js"
+  },
+  "dependencies": {
+    "modulo-base": "github:renan21-tg/modulo-base"
+  }
+}
